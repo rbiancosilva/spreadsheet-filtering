@@ -99,8 +99,5 @@ To deploy it using Google Apps Scripts, you can follow the bellow step-by-step:
 
 Run the script once to authorize it to access your Google Sheets, Gmail, and other required services.
 
-For further help, you can also watch the setup video:<br>
-[![Watch the setup video](thumbnail-link)](video-link)
-
 ## Demonstration video
 [![Watch the demonstration video](https://i9.ytimg.com/vi/ahmQrfwAvYc/mqdefault.jpg?v=67c8ca52&sqp=COCSo74G&rs=AOn4CLAHYuNUTiWOnV8xxragDxMIm6IHmg)](https://youtu.be/ahmQrfwAvYc)
