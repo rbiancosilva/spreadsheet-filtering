@@ -103,4 +103,4 @@ For further help, you can also watch the setup video:<br>
 [![Watch the setup video](thumbnail-link)](video-link)
 
 ## Demonstration video
-[![Watch the demonstration video]([thumbnail-link](https://i9.ytimg.com/vi/ahmQrfwAvYc/mqdefault.jpg?v=67c8ca52&sqp=COCSo74G&rs=AOn4CLAHYuNUTiWOnV8xxragDxMIm6IHmg))]([video-link](https://youtu.be/ahmQrfwAvYc))
+[![Watch the demonstration video](https://i9.ytimg.com/vi/ahmQrfwAvYc/mqdefault.jpg?v=67c8ca52&sqp=COCSo74G&rs=AOn4CLAHYuNUTiWOnV8xxragDxMIm6IHmg)](https://youtu.be/ahmQrfwAvYc)
