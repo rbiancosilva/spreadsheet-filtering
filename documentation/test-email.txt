@@ -1,0 +1,14 @@
+Hello, team!
+Hope you are doing well.
+
+As discussed previously, we've implemented a new functionality for the products spreadsheet. The intention of this new addition is to facilitate the filtering and reporting of data in the spreadsheet, saving time and making it easier to track past filters and results.
+
+To have a better understanding of all its capabilities and learn how to use the solution, feel free to watch this tutorial video made by us.
+
+You may access and use the solution here.
+
+We are open for suggestions and questions that may arise.
+I hope this makes your jobs easier.
+
+Best regards,
+Rafael Bianco.

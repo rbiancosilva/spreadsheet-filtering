@@ -1,6 +1,6 @@
 # Product Spreadsheet Filtering and Reporting
 
-This Google Apps Script project is designed to filter data in a [Products Spreadsheet](https://docs.google.com/spreadsheets/d/1y7kVZzz3KfwrkL0M9ZfEwbH5fRKFgl5zZcphqIzsiBE/edit?usp=sharing) based on user-defined criteria. It generates a new spreadsheet with the filtered results and, optionally, sends an email to a specified address containing the link to the filtered spreadsheet and the chosen filters. Project's functionalities include:
+This Google Apps Script project is designed to filter data in a [Products Spreadsheet](https://docs.google.com/spreadsheets/d/1y7kVZzz3KfwrkL0M9ZfEwbH5fRKFgl5zZcphqIzsiBE/edit?usp=sharing) based on user-defined criteria. It generates a new spreadsheet with the filtered results and, optionally, sends an email to a specified address containing the link to the filtered spreadsheet and the chosen filters. The project's functionalities include:
  - Dynamic data filtering
  - New spreadsheet generation
  - Email reporting 
@@ -8,7 +8,7 @@ This Google Apps Script project is designed to filter data in a [Products Spread
 
 You can try out the deployed version using [this link](https://script.google.com/macros/s/AKfycbz1udj5gtmMFt8ToKRgGWON5VI5sAxWnOBYdF0YkAkDzO1FGIgD77Me-cflziDB1dXiyQ/exec). 
 
-To make changes and deploy a new version of the project you can follow the step-by-step in the project setup section. 
+To make changes and deploy a new version of the project, you can follow the step-by-step instructions in the project setup section. 
 
 [Project overview](#project-overview)<br>
 [Project setup](#project-setup)<br>
@@ -63,7 +63,7 @@ const columnsMap = {
     "size": 14 // 'O' in spreadsheet
 }
 ```
-Example: the first column from left-to-right (labelled 'A') has the value 0.
+Example: The first column from left to right (labeled 'A') has the value 0.
 
 ### Style
 
@@ -99,7 +99,7 @@ To deploy it using Google Apps Scripts, you can follow the bellow step-by-step:
 
 Run the script once to authorize it to access your Google Sheets, Gmail, and other required services.
 
-For further help you can also watch the setup video:<br>
+For further help, you can also watch the setup video:<br>
 [![Watch the setup video](thumbnail-link)](video-link)
 
 ## Demonstration video
