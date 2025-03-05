@@ -1,6 +1,6 @@
 # Product Spreadsheet Filtering and Reporting
 
-This Google Apps Script project is designed to filter data in a [Products Spreadsheet](https://docs.google.com/spreadsheets/d/1y7kVZzz3KfwrkL0M9ZfEwbH5fRKFgl5zZcphqIzsiBE/edit?usp=sharing) based on user-defined criteria. It generates a new spreadsheet with the filtered results and, optionally, sends an email to a specified address containing the link to the filtered spreadsheet and the chosen filters. The project's functionalities include:
+This Google Apps Script project is designed to filter data in a Products Spreadsheet based on user-defined criteria. It generates a new spreadsheet with the filtered results and, optionally, sends an email to a specified address containing the link to the filtered spreadsheet and the chosen filters. The project's functionalities include:
  - Dynamic data filtering
  - New spreadsheet generation
  - Email reporting 
@@ -85,17 +85,17 @@ Both bootstrap and internal CSS were used to style the project. To use bootstrap
 
 ### Deployment 
 
-This project was designed to be applied to a copy of the original products spreadsheet. To apply it, you can use the [same copy](https://docs.google.com/spreadsheets/d/1y7kVZzz3KfwrkL0M9ZfEwbH5fRKFgl5zZcphqIzsiBE/edit?usp=sharing) used in the deployed version or, alternatively, create a copy of your own from the [original spreadsheet](https://docs.google.com/spreadsheets/d/1qxylX_QdyANzRudKQsRXtD06BiLleM99PQjgYl_Vg7s/edit?usp=sharing).
+This project was designed to be applied to a copy of the original products spreadsheet.
 
 To deploy it using Google Apps Scripts, you can follow the bellow step-by-step:
-1. Open Your Google Spreadsheet.
-2. Open Apps Script Editor:<br>
-<t>Go to Extensions > Apps Script.
-3. Copy and Paste the Script:<br>
-<t>Replace the default Google Script file content with the script (/code/Code.gs).<br>
-<t>Create a new index.html file and fill the content with the HTML (/code/index.html).
-4. Save the Script.
-5. Authorize the Script.
+1. Open the [project's Google Spreadsheet](https://docs.google.com/spreadsheets/d/1y7kVZzz3KfwrkL0M9ZfEwbH5fRKFgl5zZcphqIzsiBE/edit?usp=sharing).
+2. Go to 'File' > 'Make a Copy'.
+3. Enter a name for the new copy.
+4. On the new copy and go to 'Extensions' > 'Apps Script'.
+5. Go to 'Deploy' > 'New Deployment'.
+6. Enter a name for the deployment.
+7. Click 'Deploy'
+8. Access it using the generated URL.
 
 Run the script once to authorize it to access your Google Sheets, Gmail, and other required services.
 
