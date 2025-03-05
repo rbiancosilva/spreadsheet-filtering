@@ -54,7 +54,7 @@ sequenceDiagram
 The object columnsMap is used to set the column for each category to be filtered. The value for each key is, respectively, the index of that column in the spreadsheet.
 
 ```
->>/code/main.gs
+>>/code/Code.gs
 
 const columnsMap = {
     "productType": 4, // 'E' in spreadsheet
